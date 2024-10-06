@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 @layer base {
-    </script>
-<script src="https://cdn.jsdelivr.net/gh/mocchen/cssmeihua/js/yinghua.js">
-    </script>
     .bg-w {
       @apply bg-white dark:bg-dark;
     }
@@ -44,4 +41,8 @@
     .writeauto {
       @apply w-full md:w-7/12 lg:w-8/12 duration-300;
     }
+
+    </script>
+<script src="https://cdn.jsdelivr.net/gh/mocchen/cssmeihua/js/yinghua.js">
+    </script>
   }
